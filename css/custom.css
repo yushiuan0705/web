@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap');
+/* 紫色文字 */
+.text-purple {color: rgb(171, 35, 144);}
+/* 綠色文字 */
+body {font-family:"微軟正黑體", "Noto Sans SC", sans-serif; }
+
+/*變更整理文字大小 html {font-size: 32px;} */
+/* 變更個別文字大小 
+h5 {font-size: 1.5rem;}*/
+
+:root, [data-bs-theme=dark]{
+    --bs-dark-rgb: 126, 61, 118;
+}
